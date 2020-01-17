@@ -1,5 +1,6 @@
-# Node JS View
+# Node JS Template engine
 
-- EJS
+- HTML (Static)
+- EJS (Embedded JavaScript templating)
 - PUG
 - Handlebar
